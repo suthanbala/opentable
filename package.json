@@ -9,7 +9,7 @@
     "enzyme-adapter-react-16": "^1.11.0",
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.11",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
